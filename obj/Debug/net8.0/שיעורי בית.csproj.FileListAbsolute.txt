@@ -1,0 +1,333 @@
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\appsettings.Development.json
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\appsettings.json
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\שיעורי בית.exe
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\שיעורי בית.deps.json
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\שיעורי בית.dll
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\שיעורי בית.pdb
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\staticwebassets.build.json
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\staticwebassets.development.json
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\staticwebassets.pack.json
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.csproj.Up2Date
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.dll
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\refint\שיעורי בית.dll
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.pdb
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+C:\לימודים יד\CORE\שיעור 4\שיעורי בית\obj\Debug\net8.0\ref\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\refint\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.pdb
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\appsettings.Development.json
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\appsettings.json
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\שיעורי בית.exe
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\שיעורי בית.deps.json
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\שיעורי בית.pdb
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\staticwebassets.build.json
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\staticwebassets.development.json
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.Up2Date
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\obj\Debug\net8.0\ref\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 3\דסי לוי\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\appsettings.Development.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\appsettings.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\שיעורי בית.exe
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\שיעורי בית.deps.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\שיעורי בית.pdb
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\staticwebassets.build.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\staticwebassets.development.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.CopyComplete
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\refint\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.pdb
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+Z:\mora\זילברברג\FS\שיעור 4\דסי לוי\obj\Debug\net8.0\ref\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\appsettings.Development.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\appsettings.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\שיעורי בית.exe
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\שיעורי בית.deps.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\שיעורי בית.pdb
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\staticwebassets.build.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\staticwebassets.development.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\refint\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.pdb
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\ref\שיעורי בית.dll
+Z:\mora\זילברברג\FS\שיעור 5\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.CopyComplete
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\appsettings.json
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\שיעורי בית.exe
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\שיעורי בית.deps.json
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\שיעורי בית.pdb
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.Up2Date
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\refint\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.pdb
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+Z:\B\לוי הדסה\Core\דסי לוי\obj\Debug\net8.0\ref\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\Data\musics.json
+Z:\B\לוי הדסה\Core\דסי לוי\bin\Debug\net8.0\Data\users.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\appsettings.Development.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\appsettings.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\Data\musics.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\Data\users.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\שיעורי בית.exe
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\שיעורי בית.deps.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\שיעורי בית.dll
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\שיעורי בית.pdb
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\staticwebassets.build.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\staticwebassets.development.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\staticwebassets.pack.json
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.csproj.Up2Date
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.dll
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\refint\שיעורי בית.dll
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.pdb
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+C:\לימודים יד\CORE\הפרויקט\דסי לוי\obj\Debug\net8.0\ref\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\refint\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.pdb
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\appsettings.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Data\musics.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Data\users.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\שיעורי בית.exe
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\שיעורי בית.deps.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\שיעורי בית.pdb
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.Up2Date
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+Z:\B\לוי הדסה\Core\הפרויקט\.net-project\obj\Debug\net8.0\ref\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\appsettings.Development.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\appsettings.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Data\musics.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Data\users.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.exe
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.deps.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.pdb
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets.build.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets.development.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.CopyComplete
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\refint\שיעורי בית.dll
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.pdb
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+Z:\B\לוי הדסה\Core\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\ref\שיעורי בית.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\appsettings.Development.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\appsettings.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Data\musics.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Data\users.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.staticwebassets.runtime.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.exe
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.deps.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.runtimeconfig.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\שיעורי בית.pdb
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.AssemblyReference.cache
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.GeneratedMSBuildEditorConfig.editorconfig
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.AssemblyInfoInputs.cache
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.AssemblyInfo.cs
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.CoreCompileInputs.cache
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cs
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.MvcApplicationPartsAssemblyInfo.cache
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets.build.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets.development.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.שיעורי בית.Microsoft.AspNetCore.StaticWebAssets.props
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.build.שיעורי בית.props
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.שיעורי בית.props
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.שיעורי בית.props
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\scopedcss\bundle\שיעורי בית.styles.css
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.csproj.Up2Date
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\refint\שיעורי בית.dll
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.pdb
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\שיעורי בית.genruntimeconfig.cache
+C:\לימודים יד\CORE\‏‏הפרויקט - עותק\.net-project\obj\Debug\net8.0\ref\שיעורי בית.dll
