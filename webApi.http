@@ -1,0 +1,6 @@
+@שיעורי_בית_HostAddress = http://localhost:5009
+
+GET {{שיעורי_בית_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
