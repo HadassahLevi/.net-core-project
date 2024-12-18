@@ -9,11 +9,6 @@ using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-
-
-// כל הקטע עם הטוקנים
-// Add services to the container.
 builder.Services
         .AddAuthentication(options =>
         {
@@ -51,9 +46,6 @@ builder.Services
                         }
         });
     });
-// עד כאן הוספתי לטוקנים
-
-
 
 // Add services to the container.
 
@@ -75,10 +67,8 @@ if (app.Environment.IsDevelopment())
 
 }
 
-/*js*/
 app.UseDefaultFiles();
 app.UseStaticFiles();
-/*js (remove "launchUrl" from Properties\launchSettings.json*/
 
 // מידלוור
 // app.UseFirstMiddleware();
