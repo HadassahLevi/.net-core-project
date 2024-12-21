@@ -73,7 +73,6 @@ function deleteItem(id) {
     })
         .then(() =>{
             getItems();
-            // פונקציה למחיקת כל המוצרים של היוזר שנמחק
         })
         .catch(error => console.error('Unable to delete item.', error));
 }
