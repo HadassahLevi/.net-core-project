@@ -6,7 +6,6 @@ namespace music.Services
 {
     public class MusicalInstrumentsService : IMusicalInstruments
     {
-        // האם זה טוב ליצור כאן אוביקט של הרשימה או שצריך רק מצביע?
         List<MusicalInstruments> Products { get; } = new List<MusicalInstruments>();
         private readonly string musicDataPath;
         int nextId = 3;
